@@ -202,22 +202,22 @@ function Resources() {
 		this.res["explosion"] = "./images/explosion.png";
 		this.res["bullet"] = "./images/rocket.png";
 		this.res["uitoxcar"] = "./images/uitoxcar.png";
-		// this.res["uitoxcar"]="./images/bubble.png";
+		//this.res["uitoxcar"]="./images/bubble.png";
 
 		// enemies
-		// this.res["yahoo"]="./images/yahoo.png";
-		// this.res["pchome"]="./images/pchome.png";
-		// this.res["tao"]="./images/tao.png";
-		// this.res["tmall"]="./images/tmall.png";
-		// this.res["jd"] ="./images/jd.png";
-		// this.res["momo"]="./images/momo.png";
+		 this.res["yahoo"]="./images/yahoo.png";
+		 this.res["pchome"]="./images/pchome.png";
+		 this.res["tao"]="./images/tao.png";
+		 this.res["tmall"]="./images/tmall.png";
+		 this.res["jd"] ="./images/jd.png";
+		 this.res["momo"]="./images/momo.png";
 
-		this.res["yahoo"] = "./images/boss1.png";
-		this.res["pchome"] = "./images/boss2.png";
-		this.res["tao"] = "./images/boss3.png";
-		this.res["tmall"] = "./images/papa.png";
-		this.res["jd"] = "./images/boss4.png";
-		this.res["momo"] = "./images/momo.png";
+//		this.res["yahoo"] = "./images/boss1.png";
+//		this.res["pchome"] = "./images/boss2.png";
+//		this.res["tao"] = "./images/boss3.png";
+//		this.res["tmall"] = "./images/papa.png";
+//		this.res["jd"] = "./images/boss4.png";
+//		this.res["momo"] = "./images/momo.png";
 
 		for ( var key in this.res) {
 			this.initImage(key, this.res[key]);
