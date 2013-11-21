@@ -1,4 +1,4 @@
-uitox-fight-game
+Uitox Fight! 0.1
 ================
 
 A simple javascript game using html5 canvas and object-oriented javascript to implement. 
