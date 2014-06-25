@@ -1,7 +1,7 @@
 Uitox Fight! 0.1
 ================
 
-A simple javascript game using html5 canvas and object-oriented javascript to implement. 
+This is a simple javascript game implemented by using html5 canvas and object-oriented javascript. 
 
 The purpose of this game is FOR FUN :) !!!
 
